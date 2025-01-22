@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dim-Bananox
-- 👀 I’m interested in learning programmation, development and design
-- 🌱 I’m currently learning the class and object part of python, the game development and the texture design
+- 👀 I’m interested in learning programmation, devlopment and design
+- 🌱 I’m currently learning the class and object part of python, the game devlopment and the texture design
 - 💞️ I’m looking to collaborate on projects as game or application to improve my skills
 - 📫 You can contact me at dimn@orange.fr
 - 😄 Pronouns: he/him
